@@ -4,7 +4,7 @@
 // to be in WebStorm's bin folder.
 //
 
-import {Directory} from "../depot/directory"
+import {Directory} from "../depot/directory";
 import {File} from "../depot/file";
 import {spawn} from "../depot/spawn";
 
