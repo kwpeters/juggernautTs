@@ -1,2 +1,2 @@
-# winwebstormdiff
-A launcher for WebStorm diff on Windows
+# JuggernautTS
+Useful scripts written in TypeScript.

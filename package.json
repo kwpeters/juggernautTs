@@ -1,14 +1,14 @@
 {
-  "name": "winwebstormdiff",
+  "name": "juggernautts",
   "version": "1.0.0",
-  "description": "A launcher for webstorm diff on windows",
-  "main": "src/webstormdiff.js",
+  "description": "Useful scripts written in TypeScript",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwpeters/winwebstormdiff.git"
+    "url": "git+https://github.com/kwpeters/juggernautTs.git"
   },
   "keywords": [
     "webstorm"
@@ -16,9 +16,9 @@
   "author": "Kevin Peters <kwpeters@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kwpeters/winwebstormdiff/issues"
+    "url": "https://github.com/kwpeters/juggernautTs.git/issues"
   },
-  "homepage": "https://github.com/kwpeters/winwebstormdiff#readme",
+  "homepage": "https://github.com/kwpeters/juggernautTs.git#readme",
   "dependencies": {
     "bluebird": "^3.5.5",
     "lodash": "^4.14.2",
