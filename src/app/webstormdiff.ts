@@ -8,7 +8,7 @@ import {Directory} from "../depot/directory";
 import {File} from "../depot/file";
 import {spawn} from "../depot/spawn";
 
-const webstormBin = new Directory("C:\\", "Program Files", "JetBrains", "WebStorm 2019.3.1", "bin");
+const webstormBin = new Directory("C:\\", "Program Files", "JetBrains", "WebStorm 2019.3.4", "bin");
 const webstormExec = new File(webstormBin, "webstorm64.exe");
 
 if (!webstormBin.existsSync()) {
